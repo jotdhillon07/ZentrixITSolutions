@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Services | Zentrix IT Solutions</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <div class="logo">Zentrix IT Solutions</div>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="services.html">Services</a>
+        <a href="appointment.html" class="btn">Book Appointment</a>
+    </nav>
+</header>
+
+<section class="content">
+<h1>Our Services</h1>
+
+<h2>Structured Cabling</h2>
+<p>Cat5e, Cat6, and fiber optic cabling for offices, clinics, warehouses and commercial spaces.</p>
+
+<h2>Wireless Access Points</h2>
+<p>Professional WiFi coverage design and enterprise access point installation.</p>
+
+<h2>Routers & Switch Configuration</h2>
+<p>Business-grade router, VLAN and firewall setup for secure networks.</p>
+
+<h2>CCTV Surveillance Systems</h2>
+<p>Indoor & outdoor camera installation with remote monitoring via mobile app.</p>
+
+<h2>POS Solutions</h2>
+<p>Retail and restaurant POS system installation and configuration.</p>
+
+<h2>Managed IT Support</h2>
+<p>Ongoing monitoring, troubleshooting, backups and maintenance plans.</p>
+
+<h2>AV Installations</h2>
+<p>Conference room TV mounting, audio systems and video conferencing setup.</p>
+
+</section>
+
+<footer>
+<p>© 2026 Zentrix IT Solutions</p>
+</footer>
+
+</body>
+</html>

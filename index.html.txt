@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Zentrix IT Solutions | Networking & Security Experts</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <div class="logo">Zentrix IT Solutions</div>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="services.html">Services</a>
+        <a href="appointment.html" class="btn">Book Appointment</a>
+    </nav>
+</header>
+
+<section class="hero">
+    <h1>Professional Networking & Security Solutions</h1>
+    <p>Serving Businesses Across London, Ontario</p>
+    <a href="appointment.html" class="cta">Request Service Visit</a>
+</section>
+
+<section class="features">
+    <div class="card">
+        <h3>Structured Cabling</h3>
+        <p>Professional Cat6 & fiber installations for offices, clinics and commercial buildings.</p>
+    </div>
+
+    <div class="card">
+        <h3>CCTV & Surveillance</h3>
+        <p>Smart security camera installation with remote mobile monitoring.</p>
+    </div>
+
+    <div class="card">
+        <h3>Network Setup</h3>
+        <p>Routers, switches, firewalls and access points professionally configured.</p>
+    </div>
+
+    <div class="card">
+        <h3>Managed IT Services</h3>
+        <p>Ongoing IT maintenance, troubleshooting and system monitoring.</p>
+    </div>
+</section>
+
+<section class="why">
+    <h2>Why Choose Zentrix IT Solutions?</h2>
+    <ul>
+        <li>✔ Business & Commercial Specialists</li>
+        <li>✔ Fast On-Site Support</li>
+        <li>✔ Reliable & Secure Installations</li>
+        <li>✔ Affordable Maintenance Plans</li>
+    </ul>
+</section>
+
+<footer>
+    <p>Zentrix IT Solutions</p>
+    <p>4419 Lismer Lane, London Ontario N6L0E1</p>
+    <p>Phone: 647-707-9479</p>
+</footer>
+
+</body>
+</html>

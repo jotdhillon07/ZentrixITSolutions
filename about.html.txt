@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>About | Zentrix IT Solutions</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <div class="logo">Zentrix IT Solutions</div>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="services.html">Services</a>
+        <a href="appointment.html" class="btn">Book Appointment</a>
+    </nav>
+</header>
+
+<section class="content">
+<h1>About Zentrix IT Solutions</h1>
+
+<p>
+Zentrix IT Solutions provides professional networking, surveillance, and IT management services for small and medium businesses across London, Ontario and surrounding areas.
+</p>
+
+<p>
+We specialize in commercial structured cabling, wireless network deployment, security camera systems, and business IT infrastructure support. Our goal is to ensure your business operates securely, efficiently, and without downtime.
+</p>
+
+<h2>Contact Information</h2>
+
+<p><strong>Address:</strong> 4419 Lismer Lane, London Ontario N6L0E1</p>
+<p><strong>Phone:</strong> 647-707-9479</p>
+
+</section>
+
+<footer>
+<p>© 2026 Zentrix IT Solutions</p>
+</footer>
+
+</body>
+</html>

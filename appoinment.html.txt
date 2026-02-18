@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Book Appointment | Zentrix IT Solutions</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <div class="logo">Zentrix IT Solutions</div>
+</header>
+
+<section class="form-section">
+
+<h1>Request a Service Visit</h1>
+
+<form action="https://formsubmit.co/zentrixitsolutions@gmail.com" method="POST">
+<input type="text" name="name" placeholder="Your Name" required>
+<input type="email" name="email" placeholder="Your Email" required>
+<input type="text" name="phone" placeholder="Phone Number" required>
+
+<select name="service">
+<option>Structured Cabling</option>
+<option>CCTV Installation</option>
+<option>Network Setup</option>
+<option>POS System</option>
+<option>Managed IT Support</option>
+<option>AV Installation</option>
+</select>
+
+<textarea name="message" placeholder="Describe your issue or project"></textarea>
+
+<button type="submit">Submit Request</button>
+</form>
+
+</section>
+
+</body>
+</html>
